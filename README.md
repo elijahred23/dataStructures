@@ -1,1 +1,1 @@
-This repository has contains data structures written in c++.
+This repository contains data structures written in c++.
